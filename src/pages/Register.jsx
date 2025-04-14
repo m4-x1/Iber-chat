@@ -125,7 +125,7 @@ function Register() {
         className="auth-form"
       >
         <img
-          src="https://iberdesarrollos.es/wp-content/uploads/2025/02/Iberdes-Whatsapp.png"
+          src="https://iberdesarrollos.es/wp-content/uploads/2025/04/Iberdes-Whatsapp-1.png"
           alt="IberChat Logo"
           className="auth-logo"
         />
